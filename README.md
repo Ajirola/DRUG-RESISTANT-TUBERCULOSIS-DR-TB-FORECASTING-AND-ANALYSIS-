@@ -240,69 +240,27 @@ The **ARIMA(1,1,1)** model satisfies all key diagnostics **stationarity**, **low
 
 Without intervention, diagnosed DR-TB cases may rise to **7,000/year by 2032**.
 
-2️⃣ **Sales Trends Overtime**
+## RECOMMENDATION 
 
-![Screenshot](Screenshot_20250605-041252.jpg)
+1️⃣ **Strengthen Treatment Enrollment Systems**
+The persistent gap between diagnosed and enrolled cases  peaking at 778 untreated patients in 2021 — indicates the need to scale up treatment infrastructure, improve linkage to care, and reduce delays after diagnosis.
 
-✅ **Best Month: September 2022 – 21,340**
+2️⃣ **Implement Forecast-Driven Resource Planning**
+With forecasted DR-TB diagnoses expected to rise to nearly 6,800 by 2032, healthcare programs must use predictive insights to guide decisions around budgeting, medication procurement, staffing, and facility capacity.
 
-✅ **August 2022 was second with -21,285**
+3️⃣ **Expand Community-Based Case Management**
+To reduce the enrollment gap, introduce or strengthen community follow-up systems and patient navigation programs that ensure diagnosed individuals are tracked and supported through treatment initiation.
 
-❌ **Worst Month: December 2023 – 21,380**
-
-
-**Peak sales** occurred in **September 2022**, with revenue reaching **21,340**. This represented a monthly revenue peak that declined by over **93%** to **1,380** by December **2023.**
-
-
-
-
-3️⃣ **Quantity by item**
-
-![Screenshot](Screenshot_20250605-041401.jpg)
+4️⃣ **Enhance Data Systems for Real-Time Monitoring**
+Incorporate more frequent data collection (e.g., monthly or quarterly) and build interactive dashboards to allow early detection of enrollment gaps or service delivery issues enabling faster policy response.
 
 
-**Cold Coffee (1,361 units)** and **Sugarcane Juice (1,278 units)** were the top 2 selling items, contributing **32.3%** of total volume, suggesting **strong customer preference**
+5️⃣ **Invest in Preventive and Early Detection Programs**
+With the trend showing a steady increase in diagnoses, upstream interventions such as public awareness, screening programs, and contact tracing are essential to slow transmission and reduce long-term disease burden.
 
 
-
-4️⃣ **Sales by Transaction type**
-
-![Screenshot](Screenshot_20250605-041417.jpg)
-
-Over **88%** of transactions were traceable by type. **Cash** accounted for **48.3%** of sales **(132,840)**, while **Online payments** were **40.2%** **(110,595).**
-
-
-
-
-5️⃣ **Sales by Time of day**
-
-![Screenshot](Screenshot_20250605-041434.jpg)
-
-**Night sales** outperformed all other time slots, generating nearly **62075** or **22.6%** of total revenue
-
-
-
-6️⃣ **Sales by Staff**
-
-![Screenshot](Screenshot_20250605-041502.jpg)
-
-
-
-**Mr.** handled **143,440 (52.1%)** of revenue, compared to **Mrs.** with **131,790 (47.9%)**.
-
-
-## ✅ RECOMMENDATION 
-1️⃣ **Extend Night-Time Operations:** Consider extending business hours, launching late-night combo deals, or offering exclusive night-time discounts.
-
-2️⃣ **Focus on Beverage Promotions:** Offer combo deals pairing beverages with fast foods. Create seasonal beverage bundles to boost average order value.
-
-3️⃣ **Promote Digital Payments**: Encourage UPI/QR code payments with small cashback, stamps, or discounts to reduce cash handling and boost efficiency.
-
-4️⃣ **Investigate Post-Peak Revenue Decline:** Conduct surveys, check competitor activity, and review marketing strategies to understand declining trends.
-
-5️⃣ **Implement Staff-Level Sales KPIs:** Track sales per employee per shift. Offer incentives like "Top Seller of the Month" or product upsell bonuses.
-
-6️⃣ **Improve Data Collection Consistency:** Implement POS validation to require payment type input, ensuring more reliable analytics in the future.
+## ACKNOWLEDGEMENT 
+Thanks to the National TB and Leprosy Control Program (NTBLCP) for data access. This project contributes to improving DR-TB control and resource planning.
 
 
 ## 📞 Contact 
