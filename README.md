@@ -49,7 +49,6 @@ Over 13 years, the number of diagnosed DR-TB cases has increased drastically, bu
 3️⃣ **Apply time series modeling (ARIMA) to forecast future diagnoses** 
 
 4️⃣ **Recommend data-driven health interventions**
-- 
 
 ## 🔍 KEY AREAS ANALYZED
 The analysis focused on the following critical areas:
@@ -65,62 +64,65 @@ The analysis focused on the following critical areas:
 5️⃣ **Visual analysis of patterns over time**
 
 ## 📊 DATA SOURCE
-The data was obtained from kaggle website
+The data was obtained from **NTBLCP** Data centre 
 
-Here's the link to the dataset: https://www.kaggle.com/datasets/rajatsurana979/fast-food-sales-report
+Here's the link to the dataset: https://ntblcp.org.ng/data-centre/
 
 ## 📊 DATASET DESCRIPTION 
-The data consist of 1000 records with 10 columns.
+The dataset consist of:
 
-✅ **Order_ID**: Unique identifier assigned to each transaction
+✅ **Year: Observation year (2010-2022)**
 
-✅ **Item_Name**: Name of the food or beverage item purchased
+✅ **Diagnosed: Number of DR-TB diagnosed cases**
 
-✅ **Item_Type**: Category of the item (`Fast Food`, `Beverage`)
-
-✅ **Item_Price**: Price per unit of the item
-
-✅ **Quantity**: Number of units purchased in the transaction
-
-✅ **Transaction_Amount**: Total amount paid by the customer (Quantity × Item_Price)
-
-✅ **Transaction_Type**: Mode of payment (`Cash`, `Online` etc.)
-
-✅ **Received_By**: Staff member (including gender) who handled the transaction
-
-✅**Date**: Date when the transaction took place
-
-✅**Time_of_Sales**: Time of the transaction (Morning, Afternoon, Evening, Night)
+✅ **Enrolled: Number of DR-TB patients enrolled in treatment**
 
 ## ⚒️ TOOLS USED:
 
-Python (Pandas,Matplotlib,Seaborn,Plotly)
+Language: Python 
+
+Libraries: (Pandas,Matplotlib,Seaborn,Statsmodels)
 
 Jupyter Notebook 
 
 ## 📒 METHODOLOGY 
-1️⃣ Data cleaning and preprocessing 
+1️⃣ **Load and clean dataset**
 
-2️⃣ Exploratory Data Analysis (EDA)
+2️⃣ **Explore trends and relationships (EDA)**
 
-3️⃣ Statistical Insights and Data Visualization 
+3️⃣ **Calculate treatment gap and coverage**
 
-4️⃣ Business Recommendation for balaji fast food
+4️⃣ **Conduct time series decomposition**
+
+5️⃣ **Test stationarity (ADF Test)**
+
+6️⃣ **Build ARIMA(1,1,1) model**
+
+7️⃣ **Forecast future diagnoses (2023-2032)**
+
 
 ## 📌 DATA CLEANING 
 To ensure data quality the following preposition steps where performed 
 
-## 1️⃣ Handle missing value 
-After examining the dataset which consist of 1000rows and 10 colums, analysis revealed that 107 records of 1000 records in transaction type contain missing value.
-To maintain data integrity missing value were identified and replaced with 'Unknown'.
+## 1️⃣ Check missing value 
+Verified no missing values  
 
 ## 2️⃣ Remove duplicate
 To prevent data redundancy duplicate records were removed.
 The results confirms no duplicate records exist in the dataset.
 
 ## 3️⃣ Data Formatting 
-To ensure data consistency and accuracy, the date column was converted from object to date format and extracted month from date for monthly analysis.
+To ensure data consistency and accuracy:
 
+✅ Converted **Year** column to **datetime**
+
+✅ Set **Year** as index for **time series modeling**
+
+✅ Created additional metrics:
+
+✅ **Gap = Diagnosed - Enrolled** 
+
+✅ **Treatment Coverage (%) = (Enrolled / Diagnosed) * 100**
 
 ## 📈 EXPLORATORY DATA ANALYSIS (EDA)
 
