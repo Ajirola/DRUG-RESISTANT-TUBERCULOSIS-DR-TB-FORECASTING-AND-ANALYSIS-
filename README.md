@@ -1,4 +1,4 @@
-## DRUG-RESISTANT-TUBERCULOSIS-DR-TB-FORECASTING-AND-ANALYSIS-
+## DRUG-RESISTANT-TUBERCULOSIS-FORECASTING-AND-ANALYSIS-
 
 ## TABLE OF CONTENTS 
  [Project Overview]()
@@ -128,29 +128,17 @@ To ensure data consistency and accuracy:
 
 **Descriptive statistics**
 
-The sales data consists of 1000 records, exhibiting the following character:
+The dataset captures annual counts of drug-resistant TB diagnoses over a 13-year period, revealing clear trends and variability in case detection:
 
-**Mean Sales**: **275.23**
+1️⃣ **Diagnosed cases** ranged from **25 (2010) to 3932 (2022)**, showing a **sharp and sustained increase** in detection over time likely due to improved surveillance, diagnostics, or rising incidence.
 
-**Standard deviation**: **204.40**
+2️⃣ **The average number** of diagnosed cases was approximately **1,580 per year**, indicating a **moderate-to-high** burden of drug-resistant TB during the observed period.
 
-**Minimum sales**: **20.00**
+3️⃣ The **minimum number** of diagnoses **(25 cases)** occurred in **2010**, possibly reflecting **early-stage** reporting infrastructure or under-detection.
 
-**25%(Q1)**: **120.00**
+4️⃣ The **median number** of diagnosed cases was **1686**, meaning that **half of the years** recorded fewer than **1686** cases, and the other half recorded more suggesting consistent upward growth in later years.
 
-**50%(Median)**: **240.00**
-
-**75%(Q3)**: **360.00**
-
-**Maximum Sales**: **900.00**
-
-1️⃣ Sales ranged from **20.00** to **900.00**, indicating a **wide variation** in customer spending habits.
-
-2️⃣ The average sales value is **275.23**, suggesting that most customers make **moderately** priced purchases.
-
-3️⃣ The smallest recorded transaction was **20.00**, likely reflecting a **single low-cost** item purchase.
-
-4️⃣ 50% of the sales are **240.00**, indicating a **midpoint** sales distribution.
+5️⃣ The **interquartile range (Q1–Q3)** spans from **665 to 2286** cases, meaning that **50%** of the annual figures fell within this range  reflecting a **strong shift** in detection from **low to high** case counts across the decade.
 
 ## 🔍📝STATISTICAL INSIGHTS AND DATA VISUALIZATION 
 
