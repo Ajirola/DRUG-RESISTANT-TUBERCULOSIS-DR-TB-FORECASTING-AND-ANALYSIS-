@@ -175,19 +175,6 @@ The dataset captures annual counts of drug-resistant TB diagnoses over a 13-year
 
  **Yearly trend of DR-TB diagnosed VS Enrolled cases** 
 
-| Year | Forecasted Diagnosed Cases |
-|------|-----------------------------|
-| 2023 | 4,219                       |
-| 2024 | 4,508                       |
-| 2025 | 4,796                       |
-| 2026 | 5,084                       |
-| 2027 | 5,371                       |
-| 2028 | 5,659                       |
-| 2029 | 5,947                       |
-| 2030 | 6,235                       |
-| 2031 | 6,523                       |
-| 2032 | 6,811                       |
- 
 ![Screenshot](Screenshot_20250613-201647.jpg)
 
 The line chart shows a **strong upward trend** in the number of DR-TB cases diagnosed over time, rising from **25 cases in 2010 to 3,932 in 2022**. While treatment **enrollment** also **increased**, it consistently **lagged** behind diagnoses, creating a **persistent treatment gap**. 
@@ -238,7 +225,18 @@ The **ARIMA(1,1,1)** model satisfies all key diagnostics **stationarity**, **low
 
 ### Forecast Results 
 
-![Screenshot](Screenshot_20250613-201858.jpg)
+| Year | Forecasted Diagnosed Cases |
+|------|-----------------------------|
+| 2023 | 4,219                       |
+| 2024 | 4,508                       |
+| 2025 | 4,796                       |
+| 2026 | 5,084                       |
+| 2027 | 5,371                       |
+| 2028 | 5,659                       |
+| 2029 | 5,947                       |
+| 2030 | 6,235                       |
+| 2031 | 6,523                       |
+| 2032 | 6,811                       |
 
 Without intervention, diagnosed DR-TB cases may rise to **7,000/year by 2032**.
 
