@@ -174,6 +174,19 @@ The dataset captures annual counts of drug-resistant TB diagnoses over a 13-year
  
 
  **Yearly trend of DR-TB diagnosed VS Enrolled cases** 
+
+| Year | Forecasted Diagnosed Cases |
+|------|-----------------------------|
+| 2023 | 4,219                       |
+| 2024 | 4,508                       |
+| 2025 | 4,796                       |
+| 2026 | 5,084                       |
+| 2027 | 5,371                       |
+| 2028 | 5,659                       |
+| 2029 | 5,947                       |
+| 2030 | 6,235                       |
+| 2031 | 6,523                       |
+| 2032 | 6,811                       |
  
 ![Screenshot](Screenshot_20250613-201647.jpg)
 
