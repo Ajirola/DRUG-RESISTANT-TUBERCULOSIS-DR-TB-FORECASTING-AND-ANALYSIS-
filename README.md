@@ -159,6 +159,9 @@ The dataset captures annual counts of drug-resistant TB diagnoses over a 13-year
 
 ## 🔍📝STATISTICAL INSIGHTS AND DATA VISUALIZATION 
 
+
+![Screenshot](Screenshot_20250613-201633.jpg)
+
 ✅ **Diagnosed cases** rose from **25 (2010)** to **3932 (2022)**  
 
 ✅ **Enrollment** improved but lagged: **23 to 3185**  
