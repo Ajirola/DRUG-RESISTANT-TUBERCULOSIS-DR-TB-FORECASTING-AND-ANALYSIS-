@@ -109,6 +109,7 @@ Verified no missing values
 
 ## 2️⃣ Remove duplicate
 To prevent data redundancy duplicate records were removed.
+
 The results confirms no duplicate records exist in the dataset.
 
 ## 3️⃣ Data Formatting 
@@ -130,6 +131,22 @@ To ensure data consistency and accuracy:
 
 The dataset captures annual counts of drug-resistant TB diagnoses over a 13-year period, revealing clear trends and variability in case detection:
 
+**Mean of diagnosed: 1580**
+
+**Standard deviation: 1214**
+
+**Minimum diagnosed case: 25**
+
+**25%(Q1): 665**
+
+**50%(Median): 1686**
+
+**75%(Q3): 2286**
+
+**Maximum diagnosed cases: 3932**
+
+
+
 1️⃣ **Diagnosed cases** ranged from **25 (2010) to 3932 (2022)**, showing a **sharp and sustained increase** in detection over time likely due to improved surveillance, diagnostics, or rising incidence.
 
 2️⃣ **The average number** of diagnosed cases was approximately **1,580 per year**, indicating a **moderate-to-high** burden of drug-resistant TB during the observed period.
@@ -142,10 +159,16 @@ The dataset captures annual counts of drug-resistant TB diagnoses over a 13-year
 
 ## 🔍📝STATISTICAL INSIGHTS AND DATA VISUALIZATION 
 
-1️⃣ **Total Revenue & Quantity Sold**
+✅ **Diagnosed cases** rose from **25 (2010)** to **3932 (2022)**  
 
+✅ **Enrollment** improved but lagged: **23 to 3185**  
 
-![Screenshot](Screenshot_20250605-144144.jpg)
+✅ **Largest treatment gap: 778 cases (2021)**  
+
+ ✅ **Highest treatment coverage: 92% (2010)** 
+ 
+ ✅ **Lowest coverage: 51.88% (2013)**
+
 
 
 **Total Revenue: 275,230**
@@ -191,7 +214,7 @@ Over **88%** of transactions were traceable by type. **Cash** accounted for **48
 
 ![Screenshot](Screenshot_20250605-041434.jpg)
 
-**Night sales** outperformed all other time slots, generating nearly **62075** or **22.6%** of total revenue.
+**Night sales** outperformed all other time slots, generating nearly **62075** or **22.6%** of total revenue
 
 
 
