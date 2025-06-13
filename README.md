@@ -38,7 +38,7 @@ This project analyzes trends in **Drug-Resistant Tuberculosis (DR-TB)** cases in
 Despite efforts to control TB, **drug resistance** remains a serious public health issue. A substantial gap exists between diagnosed DR-TB cases and those enrolled in treatment. This project uses time series analysis to quantify this issue and project future burdens.
 
 ## PROBLEM STATEMENT 
-Over 13 years, the number of diagnosed DR-TB cases has increased drastically, but a treatment gap persists â€” meaning **many diagnosed patients are not receiving care**, which could fuel further spread and resistance.
+Over 13 years, the number of diagnosed DR-TB cases has increased drastically, but a treatment gap persists meaning **many diagnosed patients are not receiving care**, which could fuel further spread and resistance.
 
 ## 🎯 OBJECTIVE 
 
