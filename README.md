@@ -174,20 +174,35 @@ The dataset captures annual counts of drug-resistant TB diagnoses over a 13-year
  
 
  **Yearly trend of DR-TB diagnosed VS Enrolled cases** 
+ 
 ![Screenshot](Screenshot_20250613-201647.jpg)
 
 The line chart shows a **strong upward trend** in the number of DR-TB cases diagnosed over time, rising from **25 cases in 2010 to 3,932 in 2022**. While treatment **enrollment** also **increased**, it consistently **lagged** behind diagnoses, creating a **persistent treatment gap**. 
 
 
-**Gap between Diagnosed and Enrolled cases**
-![Screenshot](Screenshot_20250613-201647.jpg)
+**Treatment Gap by year**
+
+![Screenshot](Screenshot_20250613-201700.jpg)
 
 
 The bar chart illustrates the number of diagnosed DR-TB patients not enrolled in treatment each year. The treatment gap remained small in the **early years (only 2 patients in 2010)** but began to **widen significantly from 2013 onward**. By **2021**, the gap reached a **peak of 778 untreated cases**. Despite increasing enrollment efforts, the gap indicates that treatment scale-up has not kept pace with rising diagnoses, **posing a major challenge for TB control efforts**.
 
 
+## Time Series Decomposition
 
-**Total Revenue: 275,230** 
+![Screenshot](Screenshot_20250613-201713.jpg
+
+We decomposed the diagnosis trend into:
+
+✅ **Trend:** Strong upward growth in cases  
+
+✅ **Seasonality:** Minimal due to yearly data granularity  
+
+✅ **Residual (Noise):** Unexplained random variations  
+
+This helps visualize consistent trends and detect structural shifts or anomalies.
+ 
+
 
 **Total Quantity Sold: 8,162 items**
 
