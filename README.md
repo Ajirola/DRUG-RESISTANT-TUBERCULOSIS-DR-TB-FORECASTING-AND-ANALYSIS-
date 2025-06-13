@@ -225,6 +225,8 @@ The **ARIMA(1,1,1)** model satisfies all key diagnostics **stationarity**, **low
 
 ### Forecast Results 
 
+![Screenshot](Screenshot_20250613-202008.jpg)
+
 | Year | Forecasted Diagnosed Cases |
 |------|-----------------------------|
 | 2023 | 4,219                       |
@@ -243,19 +245,24 @@ Without intervention, diagnosed DR-TB cases may rise to **7,000/year by 2032**.
 ## RECOMMENDATION 
 
 1️⃣ **Strengthen Treatment Enrollment Systems**
+
 The persistent gap between diagnosed and enrolled cases  peaking at 778 untreated patients in 2021 — indicates the need to scale up treatment infrastructure, improve linkage to care, and reduce delays after diagnosis.
 
 2️⃣ **Implement Forecast-Driven Resource Planning**
+
 With forecasted DR-TB diagnoses expected to rise to nearly 6,800 by 2032, healthcare programs must use predictive insights to guide decisions around budgeting, medication procurement, staffing, and facility capacity.
 
 3️⃣ **Expand Community-Based Case Management**
+
 To reduce the enrollment gap, introduce or strengthen community follow-up systems and patient navigation programs that ensure diagnosed individuals are tracked and supported through treatment initiation.
 
 4️⃣ **Enhance Data Systems for Real-Time Monitoring**
+
 Incorporate more frequent data collection (e.g., monthly or quarterly) and build interactive dashboards to allow early detection of enrollment gaps or service delivery issues enabling faster policy response.
 
 
 5️⃣ **Invest in Preventive and Early Detection Programs**
+
 With the trend showing a steady increase in diagnoses, upstream interventions such as public awareness, screening programs, and contact tracing are essential to slow transmission and reduce long-term disease burden.
 
 
