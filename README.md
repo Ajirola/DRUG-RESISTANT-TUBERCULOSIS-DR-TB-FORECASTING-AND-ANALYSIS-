@@ -190,7 +190,7 @@ The bar chart illustrates the number of diagnosed DR-TB patients not enrolled in
 
 ## Time Series Decomposition
 
-![Screenshot](Screenshot_20250613-201713.jpg
+![Screenshot](Screenshot_20250613-201713.jpg)
 
 We decomposed the diagnosis trend into:
 
@@ -202,10 +202,26 @@ We decomposed the diagnosis trend into:
 
 This helps visualize consistent trends and detect structural shifts or anomalies.
  
+## Forecasting with ARIMA(1,1,1)
 
+### Model Details:
 
-**Total Quantity Sold: 8,162 items**
+✅ **ARIMA(1,1,1)**  
+ A time series model with one autoregressive term, one differencing step, and one moving average term.
 
+✅ **ADF Test (Original Series):**
+**p-value = 0.9914** Indicates the series is **non-stationary** (i.e., has a trend or seasonality that needs to be removed).
+
+✅ **ADF Test (First Differenced Series):**
+**p-value = 0.0000** After differencing, the series becomes **stationary**, which is a key requirement for **ARIMA modeling**.
+
+✅ **Model Fit (AIC = 185.07):**
+A relatively low AIC value indicates a good fit for the data. Among similar models, lower AIC suggests a better trade-off between model accuracy and complexity.
+
+✅ **Residuals (Ljung-Box p = 0.79):**
+Residuals appear to be white noise, they are random and show no remaining autocorrelation. This confirms that the model has successfully captured the structure in the data.
+
+The **ARIMA(1,1,1)** model satisfies all key diagnostics **stationarity**, **low AIC**, and **random residuals** making it a **strong and reliable model** for **forecasting future DR-TB diagnosed cases**.
 
 2️⃣ **Sales Trends Overtime**
 
