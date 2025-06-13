@@ -223,6 +223,12 @@ Residuals appear to be white noise, they are random and show no remaining autoco
 
 The **ARIMA(1,1,1)** model satisfies all key diagnostics **stationarity**, **low AIC**, and **random residuals** making it a **strong and reliable model** for **forecasting future DR-TB diagnosed cases**.
 
+### Forecast Results 
+
+![Screenshot](Screenshot_20250613-201858.jpg)
+
+Without intervention, diagnosed DR-TB cases may rise to **7,000/year by 2032**.
+
 2️⃣ **Sales Trends Overtime**
 
 ![Screenshot](Screenshot_20250605-041252.jpg)
