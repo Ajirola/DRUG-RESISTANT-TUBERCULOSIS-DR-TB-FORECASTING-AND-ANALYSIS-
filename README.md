@@ -41,6 +41,7 @@ Despite efforts to control TB, **drug resistance** remains a serious public heal
 Over 13 years, the number of diagnosed DR-TB cases has increased drastically, but a treatment gap persists meaning **many diagnosed patients are not receiving care**, which could fuel further spread and resistance.
 
 ## 🎯 PROJECT OBJECTIVE 
+This project aim to:
 
 1️⃣ **Analyze DR-TB diagnosis and treatment trends** 
 
