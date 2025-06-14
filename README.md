@@ -257,7 +257,7 @@ The **ARIMA(1,1,1)** model satisfies all key diagnostics **stationarity**, **low
 | 2031 | 6,523                       |
 | 2032 | 6,811                       |
 
-Without intervention, diagnosed DR-TB cases may rise to **7,000/year by 2032**.
+Without intervention, diagnosed DR-TB cases may rise to **6,811/year by 2032**.
 
 ## ✍️ RECOMMENDATION 
 
