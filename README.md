@@ -186,6 +186,7 @@ The dataset captures annual counts of drug-resistant TB diagnoses over a 13-year
  
  ✅ **Lowest coverage: 51.88% (2013)**
  
+ 
 
  **Yearly trend of DR-TB diagnosed VS Enrolled cases** 
 
@@ -260,7 +261,7 @@ Without intervention, diagnosed DR-TB cases may rise to **7,000/year by 2032**.
 
 1️⃣ **Strengthen Treatment Enrollment Systems**
 
-The persistent gap between diagnosed and enrolled cases  peaking at 778 untreated patients in 2021 — indicates the need to scale up treatment infrastructure, improve linkage to care, and reduce delays after diagnosis.
+The persistent gap between diagnosed and enrolled cases  peaking at 778 untreated patients in 2021, indicates the need to scale up treatment infrastructure, improve linkage to care, and reduce delays after diagnosis.
 
 2️⃣ **Implement Forecast-Driven Resource Planning**
 
