@@ -7,7 +7,7 @@
 
  [Problem statement]()
  
- [Objective]() 
+ [Project Objective]() 
 
  [Key areas analysed]() 
 
@@ -40,7 +40,7 @@ Despite efforts to control TB, **drug resistance** remains a serious public heal
 ## PROBLEM STATEMENT 
 Over 13 years, the number of diagnosed DR-TB cases has increased drastically, but a treatment gap persists meaning **many diagnosed patients are not receiving care**, which could fuel further spread and resistance.
 
-## 🎯 OBJECTIVE 
+## 🎯 PROJECT OBJECTIVE 
 
 1️⃣ **Analyze DR-TB diagnosis and treatment trends** 
 
@@ -159,8 +159,22 @@ The dataset captures annual counts of drug-resistant TB diagnoses over a 13-year
 
 ## 🔍📝STATISTICAL INSIGHTS AND DATA VISUALIZATION 
 
+| Year | Diagnosed | Enrolled | Treatment Gap | Treatment Coverage (%) |
+|------|-----------|----------|----------------|-------------------------|
+| 2010 | 25        | 23       | 2              | 92.00%                  |
+| 2011 | 39        | 27       | 12             | 69.23%                  |
+| 2012 | 185       | 154      | 31             | 83.24%                  |
+| 2013 | 665       | 345      | 320            | 51.88%                  |
+| 2014 | 781       | 412      | 369            | 52.75%                  |
+| 2015 | 1241      | 656      | 585            | 52.86%                  |
+| 2016 | 1686      | 1251     | 435            | 74.20%                  |
+| 2017 | 2286      | 1786     | 500            | 78.13%                  |
+| 2018 | 2275      | 1895     | 380            | 83.30%                  |
+| 2019 | 2384      | 1975     | 409            | 82.84%                  |
+| 2020 | 2061      | 1492     | 569            | 72.39%                  |
+| 2021 | 2975      | 2197     | 778            | 73.85%                  |
+| 2022 | 3932      | 3185     | 747            | 81.00%                  |
 
-![Screenshot](Screenshot_20250613-201633.jpg)
 
 ✅ **Diagnosed cases** rose from **25 (2010)** to **3932 (2022)**  
 
