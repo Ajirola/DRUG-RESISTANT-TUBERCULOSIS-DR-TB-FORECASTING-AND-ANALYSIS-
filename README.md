@@ -257,7 +257,7 @@ The **ARIMA(1,1,1)** model satisfies all key diagnostics **stationarity**, **low
 
 Without intervention, diagnosed DR-TB cases may rise to **7,000/year by 2032**.
 
-## RECOMMENDATION 
+## ✍️ RECOMMENDATION 
 
 1️⃣ **Strengthen Treatment Enrollment Systems**
 
@@ -281,7 +281,7 @@ Incorporate more frequent data collection (e.g., monthly or quarterly) and build
 With the trend showing a steady increase in diagnoses, upstream interventions such as public awareness, screening programs, and contact tracing are essential to slow transmission and reduce long-term disease burden.
 
 
-## ACKNOWLEDGEMENT 
+## 🙏 ACKNOWLEDGEMENT 
 Thanks to the National TB and Leprosy Control Program (NTBLCP) for data access. This project contributes to improving DR-TB control and resource planning.
 
 
